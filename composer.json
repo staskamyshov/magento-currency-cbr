@@ -11,7 +11,7 @@
     }
   ],
   "require": {},
-  "minimum-stability": "dev",
+  "minimum-stability": "dev-main",
   "autoload": {
     "files": [
       "registration.php"
