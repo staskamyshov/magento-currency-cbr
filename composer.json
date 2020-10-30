@@ -1,0 +1,23 @@
+{
+  "name": "staskamyshov/magento-currency-cbr",
+  "description": "Magento 2: Currency converter to get rates from https://cbr.ru/",
+  "type": "magento2-module",
+  "homepage": "https://github.com/staskamyshov/magento-currency-cbr",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Stanislav Kamyshov",
+      "email": "kamsd@yandex.ru"
+    }
+  ],
+  "require": {},
+  "minimum-stability": "v0.1",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "EHC\\MagentoCurrencyCBR\\": ""
+    }
+  }
+}
