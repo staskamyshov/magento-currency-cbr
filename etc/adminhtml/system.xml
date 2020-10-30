@@ -5,7 +5,7 @@
         <section id="currency">
             <group id="fcc" translate="label"
                    sortOrder="41" showInDefault="1" showInWebsite="0" showInStore="0">
-                <label>Free Currency Converter</label>
+                <label>CBR Currency Converter</label>
                 <field id="api_key" translate="label" type="text"
                        sortOrder="10" showInDefault="1" showInWebsite="0" showInStore="0">
                     <label>API Key</label>
